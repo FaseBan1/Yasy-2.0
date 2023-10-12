@@ -1,0 +1,11 @@
+{
+    "put_accent": true,
+    "put_yo": true,
+    "sample_rate": 24000,
+    "speaker": "Yasy",
+    "speaker_by_assname": {
+        "Алексею|Алексею": "aidar"
+    },
+    "threads": 4,
+    "v": "2.0"
+}
